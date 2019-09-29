@@ -1,27 +1,27 @@
 LastName, FirstName,Mid_Initial,Address,Major,CreditHours,Scholarship,GPA
-Baker,Janet,Q,"Plano,Tx",UNT,3,TRUE,4
-Kirk,Darren,W,"Lewisville, Tx",Information Science,6,FALSE,3.67
-Meadows,Sophie,E,"Denton,Texas",Data Science,9,FALSE,3.56
-Patel,Ravi,R,"Carrolton,Texas",Computer Science,12,FALSE,3.44
-Rogers,Daisy,T,"Saddlebrook,Nj",Advanced Data Analytics,15,FALSE,3.22
-Rogers,Tom,Y,"Hardford,CT",Business Administration,3,FALSE,3.14
-Akers,Brett,U,"Frisco,Tx",Civil Engineering,6,FALSE,3.9
-Deakin,John,I,"Avon,CT",Mechanical Engineering,9,TRUE,3.66
+Baker,Janet,,"Plano,Tx",UNT,3,TRUE,4
+,Darren,W,"Lewisville, Tx",Data Science,6,FALSE,3.67
+Meadows,Sophie,E,"Denton,Texas",Data Science,9,FALSE,
+Patel,Ravi,X,"Carrolton,Texas",Computer Science,12,,3.44
+Rogers,,T,"Saddlebrook,Nj",Computer Science,15,FALSE,3.22
+Rogers,Tom,Y,,Business Administration,3,FALSE,3.14
+Faiz,Brett,U,"Frisco,Tx",Civil Engineering,6,FALSE,3.9
+Deakin,John,I,"Avon,CT",,9,TRUE,3.66
 Fisher,Celia,,"Plano,Tx",Electrical Engineering,12,FALSE,3.77
-Harris,Leo,P,"Lewisville, Tx",UNT,15,TRUE,3.87
+Harris,Leo,P,"Lewisville, Tx",UNT,,TRUE,3.87
 Patel,Shankunthala,A,"Denton,Texas",Electronics Engineering,3,TRUE,3.53
 Brown,Sally,S,"Carrolton,Texas",Chemistry,6,TRUE,4
 Carter,Jane,D,"Saddlebrook,Nj",Nanotechnology,9,TRUE,3.67
-Edwards,Paul,F,"Hardford,CT",CyberSecurity,12,FALSE,3.56
+Edwardsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,Paul,F,"Hardford,CT",CyberSecurity,12,FALSE,3.56
 Harris,Rachael,G,"Frisco,Tx",Physics,15,FALSE,3.44
 Lampton,Martin,H,"Avon,CT",UNT,3,FALSE,3.22
-Janet,Baker,J,"Plano,Tx",Information Science,6,FALSE,3.14
-Darren,Kirk,K,"Lewisville, Tx",Data Science,9,FALSE,3.9
+Janet,Baker,J,"Plano,Tx",Information Science,2000,FALSE,3.14
+Darren,Kirk,K,"Lewisville, Tx",Data Science,9.8,FALSE,3.9
 Sophie,Meadows,L,"Denton,Texas",Computer Science,12,FALSE,3.66
 Ravi,Patel,X,"Carrolton,Texas",Advanced Data Analytics,15,FALSE,3.77
 Daisy,Rogers,C,"Saddlebrook,Nj",Business Administration,3,TRUE,3.87
 Tom,Rogers,V,"Hardford,CT",Civil Engineering,6,TRUE,3.53
-Brett,Akers,B,"Frisco,Tx",Mechanical Engineering,9,FALSE,4
+Brett,Akers,B,"Frisco,Tx",Mechanical Engineering,9,FALSE,5
 John,Deakin,N,"Avon,CT",Electrical Engineering,12,FALSE,3.67
 Celia,Fisher,M,"Plano,Tx",UNT,15,FALSE,3.56
 Leo,Harris,Q,"Lewisville, Tx",Electronics Engineering,9,FALSE,3.44
@@ -100,3 +100,7 @@ Saramma,Mathai,B,"Hardford,CT",Mechanical Engineering,15,FALSE,3.111111111
 Abraham,Thomas,N,"Frisco,Tx",Electrical Engineering,3,FALSE,6
 Jinu,Thomas,M,,UNT,3,FALSE,4
 ABRAM,Qureshi,V,"Austim,Tx",,3,TRUE,4
+Kali,Darren,W,"Lewisville, Tx",,6,FALSE,3.67
+Baha,Brett,U,"Frisco,Tx",Civil Engineering,6,FALSE,3.9
+Rogers,Tom,Y,"Freemont,CA",Business Administration,3,FALSE,3.14
+Rogers,Suja,T,"Saddlebrook,Nj",,15,FALSE,3.22
