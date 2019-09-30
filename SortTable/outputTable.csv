@@ -1,1 +1,99 @@
-LastName	 FirstName	Mid_Initial	Address	Major	CreditHours	Scholarship	GPA
+LastName,FirstName,Mid_Initial,Address,Major,CreditHours,Scholarship,GPA
+ABRAM,Qureshi,V,"Austim,Tx",UNT,3.0,TRUE,1.0
+Abraham,Jinu,U,"Lewisville, Tx",Civil Engineeri,12.0,TRUE,3.87
+Abraham,Joann,P,"Denton,Texas",Advanced Data A,15.0,FALSE,4.0
+Abraham,Renjith,L,"Saddlebrook,Nj",Electrical Engi,15.0,FALSE,2.67
+Abraham,Saramma,N,"Frisco,Tx",UNT,12.0,FALSE,3.66
+Abraham,Susan,Y,"Plano,Tx",Business Admini,9.0,FALSE,3.77
+Abraham,Susy,M,"Denton,Texas",Physics,15.0,TRUE,2.81
+Abraham,Thomas,N,"Frisco,Tx",Electrical Engi,3.0,FALSE,4.0
+Abraham,Tibin,N,"Lewisville, Tx",CyberSecurity,12.0,TRUE,2.91
+Abraham,Tissa,B,"Plano,Tx",Nanotechnology,9.0,FALSE,2.13
+Avran,Abraham,I,"Denton,Texas",Mechanical Engi,15.0,FALSE,3.53
+Babith,Markose,Y,"Avon,CT",Electronics Eng,12.0,FALSE,2.82
+Babloo,Markose,E,"Saddlebrook,Nj",Mechanical Engi,3.0,TRUE,4.0
+Baby,Avran,L,"Lewisville, Tx",Computer Scienc,3.0,FALSE,3.53
+Baby,Molly,O,"Carrolton,Texas",Electrical Engi,9.0,FALSE,4.0
+Baby,Sony,P,"Saddlebrook,Nj",UNT,9.0,FALSE,3.67
+Baby,Sumi,A,"Hardford,CT",Electronics Eng,9.0,FALSE,3.56
+Baha,Brett,U,"Frisco,Tx",Civil Engineeri,6.0,FALSE,3.9
+Baker,Janet,N,"Plano,Tx",UNT,3.0,TRUE,4.0
+Brett,Akers,B,"Frisco,Tx",Mechanical Engi,9.0,FALSE,4.0
+Brown,Sally,S,"Carrolton,Texas",Chemistry,6.0,TRUE,4.0
+Carter,Jane,D,"Saddlebrook,Nj",Nanotechnology,9.0,TRUE,3.67
+Celia,Fisher,M,"Plano,Tx",UNT,15.0,FALSE,3.56
+Cera,Renjith,C,"Frisco,Tx",Electronics Eng,3.0,FALSE,2.89
+Daisy,Rogers,C,"Saddlebrook,Nj",Business Admini,3.0,TRUE,3.87
+Darren,Kirk,K,"Lewisville, Tx",Data Science,10.0,FALSE,3.9
+Deakin,John,I,"Avon,CT",UNT,9.0,TRUE,3.66
+Denny,Jacob,R,"Hardford,CT",Electrical Engi,6.0,TRUE,2.91
+Edwardsxxx,Paul,F,"Hardford,CT",CyberSecurity,12.0,FALSE,3.56
+Eldho,Emy,J,"Lewisville, Tx",Chemistry,9.0,FALSE,3.66
+Eldho,Eva,L,"Carrolton,Texas",CyberSecurity,15.0,FALSE,3.87
+Eldho,Jacob,A,"Saddlebrook,Nj",UNT,6.0,TRUE,3.9
+Eldho,Ruth,K,"Denton,Texas",Nanotechnology,12.0,FALSE,3.77
+Eliz,Baby,C,"Carrolton,Texas",Business Admini,9.0,FALSE,3.67
+Emy,Eldho,S,"Hardford,CT",Information Sci,9.0,FALSE,3.66
+Eva,Eldho,F,"Avon,CT",Computer Scienc,15.0,TRUE,3.87
+Ezrah,Renjith,V,"Avon,CT",Chemistry,6.0,FALSE,2.45
+Faiz,Brett,U,"Frisco,Tx",Civil Engineeri,6.0,FALSE,3.9
+Fisher,Celia,N,"Plano,Tx",Electrical Engi,12.0,FALSE,3.77
+Harris,Rachael,G,"Frisco,Tx",Physics,15.0,FALSE,3.44
+Jacob,Denny,O,"Lewisville, Tx",Computer Scienc,3.0,FALSE,3.87
+Jacob,Eldho,H,"Plano,Tx",Electronics Eng,15.0,FALSE,3.9
+Jacob,Valsa,G,"Avon,CT",UNT,12.0,FALSE,3.14
+Jane,Carter,R,"Saddlebrook,Nj",CyberSecurity,9.0,TRUE,3.9
+Janet,Baker,J,"Plano,Tx",Information Sci,130.0,FALSE,3.14
+Joann,Abraham,T,"Frisco,Tx",UNT,9.0,FALSE,2.81
+Jobina,Renjith,X,"Hardford,CT",UNT,15.0,FALSE,2.78
+John,Deakin,N,"Avon,CT",Electrical Engi,12.0,FALSE,3.67
+Kali,Darren,W,"Lewisville, Tx",UNT,6.0,FALSE,3.67
+Lampton,Martin,H,"Avon,CT",UNT,3.0,FALSE,3.22
+Leo,Harris,Q,"Lewisville, Tx",Electronics Eng,9.0,FALSE,3.44
+Manju,Thomas,J,"Denton,Texas",Civil Engineeri,9.0,FALSE,2.45
+Markose,Babith,A,"Carrolton,Texas",Business Admini,9.0,TRUE,3.67
+Markose,Babloo,I,"Plano,Tx",Data Science,6.0,FALSE,4.0
+Markose,Molly,D,"Hardford,CT",Mechanical Engi,6.0,TRUE,3.44
+Markose,Varghese,U,"Plano,Tx",Chemistry,15.0,FALSE,3.56
+Martin,Lampton,U,"Avon,CT",Information Sci,12.0,FALSE,3.87
+Mathai,Baby,N,"Frisco,Tx",Chemistry,9.0,FALSE,3.44
+Mathai,Yacob,F,"Frisco,Tx",Electrical Engi,9.0,FALSE,3.22
+Molly,Markose,I,"Lewisville, Tx",Nanotechnology,3.0,FALSE,3.44
+Patel,Shankuntha,A,"Denton,Texas",Electronics Eng,3.0,TRUE,3.53
+Paul,Edwards,T,"Hardford,CT",Physics,12.0,FALSE,3.66
+Rachael,Harris,Y,"Frisco,Tx",UNT,15.0,FALSE,3.77
+Ravi,Patel,X,"Carrolton,Texas",Advanced Data A,15.0,FALSE,3.77
+Renjith,Abraham,N,"Plano,Tx",Computer Scienc,12.0,FALSE,2.67
+Renjith,Cera,Q,"Denton,Texas",Business Admini,6.0,FALSE,2.89
+Renjith,Ezrah,W,"Carrolton,Texas",Civil Engineeri,6.0,FALSE,2.45
+Renjith,Jobina,M,"Lewisville, Tx",Advanced Data A,15.0,FALSE,2.78
+Rogers,Suja,T,"Saddlebrook,Nj",UNT,15.0,FALSE,3.22
+Rogers,Tom,Y,"Freemont,CA",Business Admini,3.0,FALSE,3.14
+Rooney,Thomas,N,"Saddlebrook,Nj",Physics,3.0,TRUE,3.53
+Ruth,Eldho,D,"Frisco,Tx",Data Science,12.0,TRUE,3.77
+Sajan,Baby,N,"Denton,Texas",Advanced Data A,6.0,FALSE,4.0
+Sally,Brown,E,"Carrolton,Texas",Nanotechnology,6.0,FALSE,3.14
+Saramma,Mathai,B,"Hardford,CT",Mechanical Engi,15.0,FALSE,3.11
+Shalaque,Thomas,C,"Hardford,CT",UNT,3.0,TRUE,2.11
+Shankuntha,Patel,W,"Denton,Texas",Chemistry,3.0,FALSE,3.22
+Shyju,Thomas,K,"Carrolton,Texas",Mechanical Engi,12.0,FALSE,2.54
+Sophie,Meadows,L,"Denton,Texas",Computer Scienc,12.0,FALSE,3.66
+Sumi,Abraham,K,"Plano,Tx",Data Science,6.0,FALSE,3.87
+Suzanne,Baby,V,"Saddlebrook,Nj",Civil Engineeri,12.0,TRUE,4.0
+Thampi,Raseena,E,"Hardford,CT",Data Science,12.0,FALSE,3.14
+Thampi,Silvi,R,"Frisco,Tx",Computer Scienc,3.0,FALSE,3.9
+Thampi,Soja,W,"Saddlebrook,Nj",Information Sci,12.0,FALSE,3.22
+Thomas,Abraham,J,"Avon,CT",Information Sci,15.0,FALSE,3.77
+Thomas,Eliz,F,"Saddlebrook,Nj",CyberSecurity,6.0,TRUE,3.14
+Thomas,Manju,V,"Frisco,Tx",Information Sci,6.0,FALSE,2.45
+Thomas,Rooney,G,"Plano,Tx",Advanced Data A,3.0,TRUE,3.53
+Thomas,Sajan,D,"Avon,CT",Nanotechnology,3.0,FALSE,3.22
+Thomas,Shalaque,H,"Lewisville, Tx",Business Admini,6.0,TRUE,2.11
+Thomas,Shyju,B,"Avon,CT",Data Science,9.0,FALSE,2.54
+Thomas,Suzanne,G,"Hardford,CT",Physics,9.0,TRUE,3.9
+Tom,Rogers,V,"Hardford,CT",Civil Engineeri,6.0,TRUE,3.53
+Valsa,Jacob,P,"Carrolton,Texas",Physics,3.0,FALSE,3.14
+Varghese,Abraham,Q,"Carrolton,Texas",UNT,12.0,FALSE,2.82
+Varghese,Markose,S,"Saddlebrook,Nj",Civil Engineeri,3.0,TRUE,3.56
+Varghese,Thampi,T,"Avon,CT",Advanced Data A,6.0,FALSE,3.66
+Yacob,Mathai,O,"Denton,Texas",CyberSecurity,3.0,FALSE,3.22
